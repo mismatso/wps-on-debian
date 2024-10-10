@@ -75,7 +75,7 @@ Si lo desea, puede visitar mi canal de YouTube [MizaqScreencasts](https://www.yo
 
 ## Licencia ![by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)
 
-Este manual está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Esto significa que usted es libre de:
+Este manual está licenciado bajo una [Licencia Creative Commons Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Esto significa que usted es libre de:
 
 - **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
 - **Adaptar** — remezclar, transformar y construir a partir del material, pero **no con fines comerciales**.
@@ -84,3 +84,8 @@ Bajo las siguientes condiciones:
 
 - **Atribución** — debe otorgar el crédito adecuado, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de manera que sugiera que usted o su uso tienen el apoyo de la licenciante.
 - **NoComercial** — no puede utilizar el material con fines comerciales.
+- **CompartirIgual** — si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la la misma licencia del original.
+
+---
+
+[WPS Office en GNU/Linux Debian](https://github.com/mismatso/wps-on-debian) © 2024 by [Misael Matamoros](https://t.me/mismatso) está licenciado bajo [CC BY-NC-SA 4](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
